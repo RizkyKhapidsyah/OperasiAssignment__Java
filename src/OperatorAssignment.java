@@ -70,7 +70,7 @@ public class OperatorAssignment {
         A = 0; B = 0; C = 0; D = 0; E = 0;  //Reset Nilai dari Variabel, Untuk digunakan di langkah selanjutnya
         
         /*
-         *   OPERATOR ASSGINMENT: CARA 1 (TIDAK DISARANKAN)
+         *   OPERATOR ASSGINMENT: CARA 2 (DISARANKAN)
          */
         System.out.println("-------------------------------");
         System.out.println("ASSIGNMENT: CARA 2 (DISARANKAN)");
