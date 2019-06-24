@@ -1,12 +1,8 @@
-
 /**
  * @author RizkyKhapidsyah
  */
 public class OperatorAssignment {
-
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
         int A, B, C, D, E;
 
